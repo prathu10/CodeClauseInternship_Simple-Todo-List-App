@@ -1,2 +1,2 @@
 # CodeClauseInternship_Simple-Todo-List-App
-Simple To-Do List App using Django
+Task Management App using Django
